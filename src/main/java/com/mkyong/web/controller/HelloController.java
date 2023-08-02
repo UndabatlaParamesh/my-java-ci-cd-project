@@ -14,7 +14,7 @@ public class HelloController {
 	public String printWelcome(ModelMap model) {
 
 		model.addAttribute("message", "Project demo to Bobby");
-		return "hello Bobby";
+		return "hello";
 
 	}
 
@@ -22,7 +22,7 @@ public class HelloController {
 	public ModelAndView hello(@PathVariable("name") String name) {
 
 		ModelAndView model = new ModelAndView();
-		model.setViewName("Hello World");
+		model.setViewName("Hello");
 		model.addObject("msg", name);
 
 		return model;
