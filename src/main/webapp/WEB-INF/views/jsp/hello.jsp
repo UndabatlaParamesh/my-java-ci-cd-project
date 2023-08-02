@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">New Changes by Koti and Shiva</a>
+		<a class="navbar-brand" href="#">New Changes by Bobby</a>
 	</div>
   </div>
 </nav>
@@ -28,7 +28,7 @@
 		</c:if>
 
 		<c:if test="${empty name}">
-			New deployment by Koti on June-17-2021
+			New deployment by bobby on 02-08-2023
 		</c:if>
     </p>
     <p>

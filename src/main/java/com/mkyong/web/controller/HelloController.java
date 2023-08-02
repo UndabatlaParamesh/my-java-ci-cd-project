@@ -13,8 +13,8 @@ public class HelloController {
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) {
 
-		model.addAttribute("message", "devops demo to Shiva");
-		return "hello";
+		model.addAttribute("message", "Project demo to Bobby");
+		return "hello Bobby";
 
 	}
 
@@ -22,7 +22,7 @@ public class HelloController {
 	public ModelAndView hello(@PathVariable("name") String name) {
 
 		ModelAndView model = new ModelAndView();
-		model.setViewName("hello");
+		model.setViewName("Hello World");
 		model.addObject("msg", name);
 
 		return model;
