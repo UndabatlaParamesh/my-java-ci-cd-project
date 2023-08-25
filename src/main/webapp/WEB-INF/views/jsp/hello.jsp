@@ -42,7 +42,7 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Hello</h2>
-		<p>Devops Gurus</p>
+		<p>Jenkins</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
@@ -55,7 +55,7 @@
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>welcome again </h2>
+		<h2>Github </h2>
 		<p>devops-11</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
