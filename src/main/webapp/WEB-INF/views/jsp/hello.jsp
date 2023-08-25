@@ -48,7 +48,7 @@
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2> Greatcoder </h2>
+		<h2> Paramesh </h2>
 		<p>Devops-batch-XI</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
