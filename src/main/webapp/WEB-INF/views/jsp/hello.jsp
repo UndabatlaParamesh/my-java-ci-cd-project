@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">New Changes by Bobby</a>
+		<a class="navbar-brand" href="#">New Changes by Guna</a>
 	</div>
   </div>
 </nav>
@@ -48,7 +48,7 @@
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2> Paramesh </h2>
+		<h2> Paramesh Undabatla </h2>
 		<p>Devops-batch-XI</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
